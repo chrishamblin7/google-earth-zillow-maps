@@ -1,0 +1,81 @@
+html, body, #cesiumContainer {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background: #0b1021;
+}
+
+#topbar {
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  right: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 1000;
+  color: #fff;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+#topbar .title {
+  font-weight: 600;
+  font-size: 16px;
+  background: rgba(0,0,0,0.4);
+  border-radius: 6px;
+  padding: 6px 10px;
+}
+
+#topbar #status {
+  font-size: 12px;
+  background: rgba(0,0,0,0.35);
+  border-radius: 6px;
+  padding: 6px 8px;
+}
+
+#legend {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  width: 240px;
+  z-index: 1000;
+  color: #fff;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+    Ubuntu, Cantarell, 'Fira Sans', 'Droid Sans', 'Helvetica Neue', Arial, sans-serif;
+}
+
+.legend-title {
+  font-size: 12px;
+  opacity: 0.9;
+  margin-bottom: 6px;
+}
+
+.gradient {
+  height: 14px;
+  border-radius: 7px;
+  background: linear-gradient(90deg,
+    #081d58 0%,
+    #225ea8 15%,
+    #41b6c4 30%,
+    #a1dab4 45%,
+    #ffffcc 60%,
+    #fed976 70%,
+    #fd8d3c 80%,
+    #f03b20 90%,
+    #bd0026 100%
+  );
+  border: 1px solid rgba(255,255,255,0.25);
+}
+
+.legend-labels {
+  display: flex;
+  justify-content: space-between;
+  font-size: 11px;
+  opacity: 0.9;
+  margin-top: 4px;
+}
+
+
