@@ -1,3 +1,8 @@
+## Resources for research
+
+https://github.com/HasData/zillow-api-python?tab=readme-ov-file
+
+
 ## Global Temperature Globe (Google Earth Engine + Cesium)
 
 This app serves a 3D globe with a live global temperature heatmap using NOAA GFS data via Google Earth Engine (GEE) and renders it with CesiumJS.
