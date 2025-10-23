@@ -16,6 +16,11 @@ https://www.reddit.com/r/santacruz/comments/1jdj2oc/what_are_peoples_experiences
 - Fire zone (requires geologist again, and water hookups (26k/hookup))
 - Septic ($80k)
 
+## Zoning and Permits
+
+https://cdi.santacruzcountyca.gov/UPC/BuildingPermitsSafety/BuildingPermitsIndex/FrequentlyAskedQuestionsAboutBuildingPermits/WhenisaBuildingPermitNOTRequired.aspx
+
+
 ## Global Temperature Globe (Google Earth Engine + Cesium)
 
 This app serves a 3D globe with a live global temperature heatmap using NOAA GFS data via Google Earth Engine (GEE) and renders it with CesiumJS.
