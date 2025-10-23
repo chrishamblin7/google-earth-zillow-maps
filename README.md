@@ -13,8 +13,8 @@ https://www.reddit.com/r/santacruz/comments/1jdj2oc/what_are_peoples_experiences
 ## Land Pain Points
 
 - Landslide zone (requires $40-60k geologist to dig a hole and recommend a foundation)
-- Fire zone (requires geologist again, and water hookup for sprinklers)
-- 
+- Fire zone (requires geologist again, and water hookups (26k/hookup))
+- Septic ($80k)
 
 ## Global Temperature Globe (Google Earth Engine + Cesium)
 
