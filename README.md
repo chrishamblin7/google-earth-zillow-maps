@@ -4,6 +4,8 @@ https://github.com/HasData/zillow-api-python?tab=readme-ov-file
 
 https://github.com/HasData/zillow-api
 
+https://github.com/cermak-petr/actor-zillow-api-scraper
+
 
 ## Global Temperature Globe (Google Earth Engine + Cesium)
 
