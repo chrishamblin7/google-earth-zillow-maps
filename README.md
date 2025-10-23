@@ -6,6 +6,11 @@ https://github.com/HasData/zillow-api
 
 https://github.com/cermak-petr/actor-zillow-api-scraper
 
+## Forums for Permiting
+
+https://www.reddit.com/r/santacruz/comments/1jdj2oc/what_are_peoples_experiences_with_permits_in_the/
+
+
 
 ## Global Temperature Globe (Google Earth Engine + Cesium)
 
