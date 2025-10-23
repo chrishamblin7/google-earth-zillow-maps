@@ -76,6 +76,10 @@ This app serves a 3D globe with a live global temperature heatmap using NOAA GFS
 ### Notes
 - The NOAA GFS dataset is forecast data and updates periodically. We fetch the most recent image available.
 - If you see authentication errors, verify the API is enabled, the service account has Earth Engine access, and the key formatting preserves newlines (use `\n`).
+
+  ### Links
+- Data Collection for Real Estate Firms - Scraper API - $50/month - https://www.scraperapi.com/solutions/real-estate-data-collection/?utm_id=20804240837_165215544636&utm_mt=p&utm_device=d&utm_source=google&utm_medium=cpc&utm_term=get%20real%20estate%20data&utm_campaign=geoT1-s-UseCases&hsa_acc=5949818572&hsa_cam=20804240837&hsa_grp=165215544636&hsa_ad=706786531634&hsa_src=g&hsa_tgt=kwd-1600031651484&hsa_kw=get%20real%20estate%20data&hsa_mt=p&hsa_net=adwords&hsa_ver=3&gad_source=1&gad_campaignid=20804240837&gbraid=0AAAAAC-ZfoVUh0Y9H3XHrPNJpm_18N5pE&gclid=CjwKCAjwgeLHBhBuEiwAL5gNEc7rSmRbU_pgX_iDVI82h7a1OcqWXgXjG7Pib1SPs6uciKftbns9pRoCeFcQAvD_BwE
+
 - Zillow API - https://www.zillowgroup.com/developers/api/mls-broker-data/mls-listings/
 
 
