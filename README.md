@@ -10,7 +10,11 @@ https://github.com/cermak-petr/actor-zillow-api-scraper
 
 https://www.reddit.com/r/santacruz/comments/1jdj2oc/what_are_peoples_experiences_with_permits_in_the/
 
+## Land Pain Points
 
+- Landslide zone (requires $40-60k geologist to dig a hole and recommend a foundation)
+- Fire zone (requires geologist again, and water hookup for sprinklers)
+- 
 
 ## Global Temperature Globe (Google Earth Engine + Cesium)
 
