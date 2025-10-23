@@ -1,5 +1,7 @@
 ## Written Scraping Resources
 
+https://github.com/ZacharyHampton/HomeHarvest?tab=readme-ov-file
+
 https://github.com/HasData/zillow-api-python?tab=readme-ov-file
 
 https://github.com/HasData/zillow-api
